@@ -1,0 +1,16 @@
+{
+  "name": "learning-js-testing-rithmschool",
+  "version": "1.0.0",
+  "description": "For this exercise you will be writing tests to make functions pass. Start by writing the tests - seeing them fail and then writing the code necessary to make the tests pass. Follow this process:",
+  "main": "testing.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}

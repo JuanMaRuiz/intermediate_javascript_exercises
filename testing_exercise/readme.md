@@ -49,7 +49,7 @@ var obj2 = {
     test: "thing",
     num: 55
 }
-mergeObjects(obj1, obj2) 
+mergeObjects(obj1, obj2)
 /*/
 {
     name: "Foo",
@@ -58,6 +58,3 @@ mergeObjects(obj1, obj2)
 }
 /*/
 ```
-
-
-
